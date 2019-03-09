@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         DrrrKariYoutubeVideoSupport
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       ニック
+// @match        http://drrrkari.com/room/
+// @grant        none
+// ==/UserScript==
+
 "use strict";
 
 window.addEventListener("load", function () {
